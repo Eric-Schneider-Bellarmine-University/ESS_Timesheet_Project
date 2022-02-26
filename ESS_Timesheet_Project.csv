@@ -1,8 +1,8 @@
 Initials,Date,Course_Id,Time,Summary
 ESS,1/8/2022,ACCT 101-1,120,Reading and Notetaking for Chapter 1 of textbook
 ESS,1/10/2022,BUSA 103-3,95,Reading and Notetaking for Chapter 1 of textbook
-ESS,1/10/2022,DS-160-1,55,Reading Chapter 1 of textbook
-ESS,1/11/2022,DS-160-1,45,Reading Chapter 2 of textbook
+ESS,1/10/2022,DS 160-1,55,Reading Chapter 1 of textbook
+ESS,1/11/2022,DS 160-1,45,Reading Chapter 2 of textbook
 ESS,1/11/2022,THEO 200H-1,50, Required Readings
 ESS,1/11/2022,IDC 101H-4,20,Reading Chaper 1 of textbook
 ESS,1/11/2022,ACCT 101-1,120,Reading and Notetaking for Chapter 2 of textbook
@@ -20,7 +20,7 @@ ESS,1/19/2022,BUSA 103-3,65,Reading and Notetaking for Chapter 5 of textbook
 ESS,1/19/2022,ECON 110-1,35,Reading and Notetaking for chapter 2 of textbook
 ESS,1/19/2022,ECON 110-1,45,Chapter 2 Homework Assignments
 ESS,1/20/2022,BUSA 103-3,45,Reading and Notetaking for chapter 2 of textbook
-ESS,1/20/2022,DS-160-1,35,Reading Chapter 3 of textbook
+ESS,1/20/2022,DS 160-1,35,Reading Chapter 3 of textbook
 ESS,1/21/2022,ECON 110-1,45,Reading and Notetaking for Chapter 3 of textbook
 ESS,1/21/2022,ECON 110-1,40,Chapter 3 Homework Assignments
 ESS,1/21/2022,IDC 101H-4,75,Derby Horse Prospect Writing Assignment 
@@ -28,7 +28,7 @@ ESS,1/21/2022,THEO 200H-1,45,Required Readings and Class Post
 ESS,1/21/2022,ACCT 101-1,50,Reading and Notetaking for chapter 4 of textbook
 ESS,1/25/2022,THEO 200H-1,70,Required Readings
 ESS,1/26/2022,THEO 200H-1,40,Writing First Reflection
-ESS,1/26/2022,DS-160-1,40,Reading Chapter 5 of textbook
+ESS,1/26/2022,DS 160-1,40,Reading Chapter 5 of textbook
 ESS,1/26/2022,IDC 101H-4,40,Required Readings and Class Post
 ESS,1/27/2022,THEO 200H-1,20,Required Readings
 ESS,1/27/2022,ACCT 101-1,30,Practice Problems
@@ -39,9 +39,42 @@ ESS,2/2/2022,ECON 110-1,25,Reading and Notetaking for Chapter 4 of textbook
 ESS,2/2/2022,ECON 110-1,35,Chapter 4 Homework Assignments
 ESS,2/2/2022,THEO 200H-1,15,Take Home Quiz
 ESS,2/5/2022,THEO 200H-1,45,Required Readings and Class Post
-ESS,2/5/2022,DS-160-1,75,Working on Individual Project 2
-ESS,2/5/2022,DS-160-1,30,Working on Individual Project 2
-ESS,2/7/2022,DS-160-1,60,Working on Individual Project 2
-ESS,2/8/2022,ECON 110-1,,Reading and Notetaking for Chapter 5 of textbook
-ESS,2/8/2022,ECON 110-1,,Chapter 5 Homework Assignments
-ESS,2/8/2022,THEO 200H-1,,Required Readings
+ESS,2/5/2022,DS 160-1,75,Working on Individual Project 2
+ESS,2/5/2022,DS 160-1,30,Working on Individual Project 2
+ESS,2/7/2022,DS 160-1,60,Working on Individual Project 2
+ESS,2/7/2022,BUSA 103-3,45,Buisness Personality Test
+ESS,2/7/2022,ACCT 101-1,15,Studying for First Exam
+ESS,2/8/2022,THEO 200H-1,40,Required Readings
+ESS,2/9/2022,IDC 101H-4,60,Required Readings and Class Post
+ESS,2/10/2022,THEO 200H-1,60,Required Readings and Class Post
+ESS,2/13/2022,ACCT 101-1,50,Reading and Notetaking for Chapter 5 of textbook
+ESS,2/13/2022,ACCT 101-1,95,Reading and Notetaking for Chapter 6 of textbook
+ESS,2/14/2022,BUSA 103-3,50,Excel Homework 1 and 2
+ESS,2/14/2022,ACCT 101-1,70,Reading and Notetaking for Chapter 7 of textbook
+ESS,2/15/2022,DS 160-1,105,Working on Individual Project 3
+ESS,2/15/2022,BUSA 103-3,45,Extra Credit Report
+ESS,2/15/2022,THEO 200H-1,30,Required Readings
+ESS,2/15/2022,THEO 200H-1,35,Working on Reflection 2
+ESS,2/15/2022,DS 160-1,45,Working on Individual Project 3
+ESS,2/16/2022,DS 160-1,180,Working on Individual Project 3
+ESS,2/16/2022,DS 160-1,40,Working on Individual Project 3
+ESS,2/16/2022,IDC 101H-4,40,Required Readings and Class Post
+ESS,2/16/2022,BUSA 103-3,35,Excel Homework 3
+ESS,2/17/2022,BUSA 103-3,25,Excel Homework 4
+ESS,2/17/2022,THEO 200H-1,20,Studying for Second Quiz
+ESS,2/17/2022,DS 160-1,20,Reading Chapter 6 of textbook
+ESS,2/17/2022,ECON 110-1,40,Reading and Notetaking for Chapter 5 of textbook
+ESS,2/17/2022,ECON 110-1,25,Chapter 5 Homework Assignments
+ESS,2/18/2022,IDC 101H-4,75,Derby Object Paper Research and Writing
+ESS,2/18/2022,ACCT 101-1,45,Practice Problems
+ESS,2/21/2022,ACCT 101-1,90,Homework Problems for Chapters 5-6 of textbook
+ESS,2/21/2022,ACCT 101-1,80,Studying for Makeup Test
+ESS,2/22/2022,ECON 110-1,80,First Exam Rebate
+ESS,2/22/2022,ACCT 101-1,25,Homework Problems for Chapters 7 of textbook
+ESS,2/22/2022,BUSA 103-3,20,Extra Credit Report
+ESS,2/23/2022,ECON 110-1,30,First Exam Rebate
+ESS,2/23/2022,BUSA 103-3,90,Working on Partner Project
+ESS,2/23/2022,IDC 101H-4,75,Required Readings and Class Post
+ESS,2/24/2022,DS 160-1,70,First Exam Essay
+ESS,2/24/2022,ECON 110-1,70,First Exam Rebate
+ESS,2/26/2022,ACCT 101-1,65,Reading and Notetaking for Chapter 8 of textbook
